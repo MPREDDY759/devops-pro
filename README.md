@@ -1,5 +1,8 @@
 # Links for the DEVOPS Pro Exam
 
+In addition to the DEVOPs exam blueprint https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS%20Certified%20DevOps%20Engineer%20Professional_Exam%20Guide_v1.5_FINAL%20(2).pdf 
+
+
 https://aws.amazon.com/blogs/devops/use-a-creationpolicy-to-wait-for-on-instance-configurations/
 ## Blue Green 
 https://d0.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
